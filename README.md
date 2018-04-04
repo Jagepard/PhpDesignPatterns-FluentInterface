@@ -5,5 +5,5 @@
 ![FluentInterface](https://github.com/Jagepard/PhpDesignPatterns-FluentInterface/blob/master/FluentInterface.png?raw=true "FluentInterface")
 
 
-# Adapter
-Адаптер
+# Fluent Interface
+Текучий интерфейс
