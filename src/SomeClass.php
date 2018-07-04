@@ -1,15 +1,13 @@
 <?php
+
+declare(strict_types=1);
+
 /**
- * Date: 04.04.18
- * Time: 10:19
- *
  * @author    : Korotkov Danila <dankorot@gmail.com>
- * @copyright Copyright (c) 2018, Korotkov Danila
- * @license   http://www.gnu.org/licenses/gpl.html GNU GPLv3.0
+ * @license   https://mit-license.org/ MIT
  */
 
 namespace Structural\FluentInterface;
-
 
 /**
  * Class SomeClass
