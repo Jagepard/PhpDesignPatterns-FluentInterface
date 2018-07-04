@@ -1,9 +1,9 @@
 [![Build Status](https://travis-ci.org/Jagepard/PhpDesignPatterns-FluentInterface.svg?branch=master)](https://travis-ci.org/Jagepard/PhpDesignPatterns-FluentInterface)
+[![codecov](https://codecov.io/gh/Jagepard/PhpDesignPatterns-FluentInterface/branch/master/graph/badge.svg)](https://codecov.io/gh/Jagepard/PhpDesignPatterns-FluentInterface)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Jagepard/PhpDesignPatterns-FluentInterface/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Jagepard/PhpDesignPatterns-FluentInterface/?branch=master)
-[![Maintainability](https://api.codeclimate.com/v1/badges/7a6e4faef5f3bedee182/maintainability)](https://codeclimate.com/github/Jagepard/PhpDesignPatterns-FluentInterface/maintainability)
-
-![FluentInterface](https://github.com/Jagepard/PhpDesignPatterns-FluentInterface/blob/master/FluentInterface.png?raw=true "FluentInterface")
-
+[![Code Climate](https://codeclimate.com/github/Jagepard/PhpDesignPatterns-FluentInterface/badges/gpa.svg)](https://codeclimate.com/github/Jagepard/PhpDesignPatterns-FluentInterface)
+[![License: MIT](https://img.shields.io/badge/license-MIT-498e7f.svg)](https://mit-license.org/)
+-----
 
 # Fluent Interface
 Текучий интерфейс
