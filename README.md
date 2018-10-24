@@ -5,5 +5,5 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-498e7f.svg)](https://mit-license.org/)
 -----
 
-# Fluent Interface
+# Fluent Interface | [API](https://github.com/Jagepard/PhpDesignPatterns-FluentInterface/blob/master/docs.md "Documentation API")
 Текучий интерфейс
