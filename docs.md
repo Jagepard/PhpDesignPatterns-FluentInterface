@@ -1,12 +1,12 @@
 ## Table of contents
 
-- [\Structural\FluentInterface\SomeClass](#class-structuralfluentinterfacesomeclass)
+- [\Structural\FluentInterface\FluentInterface](#class-structuralfluentinterfacefluentinterface)
 
 <hr />
 
-### Class: \Structural\FluentInterface\SomeClass
+### Class: \Structural\FluentInterface\FluentInterface
 
-> Class SomeClass
+> Class FluentInterface
 
 | Visibility | Function |
 |:-----------|:---------|

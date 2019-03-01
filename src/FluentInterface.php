@@ -10,30 +10,29 @@ declare(strict_types=1);
 namespace Structural\FluentInterface;
 
 /**
- * Class SomeClass
+ * Class FluentInterface
  * @package Structural\FluentInterface
  */
-class SomeClass
+final class FluentInterface
 {
-
     /**
      * @var string
      */
-    protected $firstValue;
+    private $firstValue;
     /**
      * @var string
      */
-    protected $secondValue;
+    private $secondValue;
     /**
      * @var string
      */
-    protected $thirdValue;
+    private $thirdValue;
 
     /**
      * @param $firstValue
      * @return $this
      */
-    public function setFirstValue(string $firstValue): SomeClass
+    public function setFirstValue(string $firstValue): FluentInterface
     {
         $this->firstValue = $firstValue;
         return $this;
@@ -43,7 +42,7 @@ class SomeClass
      * @param $secondValue
      * @return $this
      */
-    public function setSecondValue(string $secondValue): SomeClass
+    public function setSecondValue(string $secondValue): FluentInterface
     {
         $this->secondValue = $secondValue;
         return $this;
@@ -53,7 +52,7 @@ class SomeClass
      * @param $thirdValue
      * @return $this
      */
-    public function setThirdValue(string $thirdValue): SomeClass
+    public function setThirdValue(string $thirdValue): FluentInterface
     {
         $this->thirdValue = $thirdValue;
         return $this;
