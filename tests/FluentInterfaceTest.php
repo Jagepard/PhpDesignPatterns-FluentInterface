@@ -12,9 +12,6 @@ namespace Structural\FluentInterface\Tests;
 use Structural\FluentInterface\FluentInterface;
 use PHPUnit\Framework\TestCase as PHPUnit_Framework_TestCase;
 
-/**
- * Class FluentInterfaceTest
- */
 class FluentInterfaceTest extends PHPUnit_Framework_TestCase
 {
     /**
