@@ -6,8 +6,10 @@
 -----
 
 # Fluent Interface | [API](https://github.com/Jagepard/PhpDesignPatterns-FluentInterface/blob/master/docs.md "Documentation API")
-```php run``` Запустить исполнение шаблона в терминале
 
-Текучий интерфейс
+```php main.php``` execute in terminal
 
-![FluentInterface](https://github.com/Jagepard/PhpDesignPatterns-FluentInterface/blob/master/UML.png)
+## Result:
+```
+123456789
+```
